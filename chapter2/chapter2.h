@@ -5,5 +5,8 @@
 
 #include <iostream>
 #include <iomanip>
+#include "Sales_data.h"
+
+int interrupt;
 
 // TODO: 在此处引用程序需要的其他标头。
